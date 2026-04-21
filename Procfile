@@ -1,1 +1,1 @@
-requirements.txt
+worker: python bot.py
